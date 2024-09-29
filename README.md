@@ -42,6 +42,6 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Ritovan03/trying-express.git
-   cd trying-express
+    ```bash
+   git clone https://github.com/Ritovan03/bird_model.git
+   cd bird_model
